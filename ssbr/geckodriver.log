@@ -1,0 +1,831 @@
+1606139254818	geckodriver	INFO	Listening on 127.0.0.1:51953
+1606139257866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofile0igc8u"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139261844	Marionette	INFO	Listening on port 51961
+1606139262306	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1606139327122	Marionette	INFO	Stopped listening on port 51961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606139334511	geckodriver	INFO	Listening on 127.0.0.1:52049
+1606139337551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileZeU7j1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139341630	Marionette	INFO	Listening on port 52057
+1606139341755	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606139468493	Marionette	INFO	Stopped listening on port 52057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileJqKGVY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139385475	Marionette	INFO	Listening on port 52115
+1606139385594	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1606139466080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileGR3p9A"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139470704	Marionette	INFO	Listening on port 52193
+1606139470897	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+1606139527069	Marionette	INFO	Stopped listening on port 52191606139527512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofiledkII70"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139531103	Marionette	INFO	Listening on port 52261
+1606139531190	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.snapp.taxi"
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606139688403	Marionette	INFO	Stopped listening on port 52261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilesYxfPu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139634059	Marionette	INFO	Listening on port 52339
+1606139634385	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606139688388	Marionette	INFO	Stopped listening on port 52339
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606139691230	geckodriver	INFO	Listening on 127.0.0.1:52398
+1606139694278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileOu0JXk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139697793	Marionette	INFO	Listening on port 52406
+1606139697958	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+1606139938005	Marionette	INFO	Stopped listening on port 52406
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606139943536	geckodriver	INFO	Listening on 127.0.0.1:52489
+1606139946594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofilebZKq4h"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606139950180	Marionette	INFO	Listening on port 52498
+1606139950267	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606140058330	Marionette	INFO	Stopped listening on port 52498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileYHWRf4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606140061587	Marionette	INFO	Listening on port 52573
+1606140061866	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606140157414	Marionette	INFO	Stopped listening on port 52573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606140193466	geckodriver	INFO	Listening on 127.0.0.1:52637
+1606140196489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileIQRNJb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606140200253	Marionette	INFO	Listening on port 52646
+1606140200679	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606140639698	Marionette	INFO	Stopped listening on port 52646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofiletJYsfq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606140403088	Marionette	INFO	Listening on port 52721
+1606140403168	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+1606140633422	Marionette	INFO	Stopped listening on port 52721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606151495922	geckodriver	INFO	Listening on 127.0.0.1:49708
+1606151498997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileVkjPlS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606151509479	Marionette	INFO	Listening on port 49716
+[Parent 6340, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1606151509866	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript error: https://app.snapp.taxi/login/?redirect_to=%2Fpre-ride%3Futm_source%3Dwebsite%26utm_medium%3Dwebapp-button, line 21: ChunkLoadError: Loading chunk 12 failed.
+(error: https://app.snapp.taxi/static/js/12.d77656f3.chunk.js)
+1606151630092	Marionette	INFO	Stopped listening on port 49716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606151632151	geckodriver	INFO	Listening on 127.0.0.1:49813
+1606151635199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileS0G948"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606151638598	Marionette	INFO	Listening on port 49821
+1606151638889	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript error: https://app.snapp.taxi/login/?redirect_to=%2Fpre-ride%3Futm_source%3Dwebsite%26utm_medium%3Dwebapp-button, line 21: ChunkLoadError: Loading chunk 12 failed.
+(error: https://app.snapp.taxi/static/js/12.d77656f3.chunk.js)
+1606151659997	Marionette	INFO	Stopped listening on port 49821
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606151711982	geckodriver	INFO	Listening on 127.0.0.1:49895
+1606151715137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileFa0aHN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606151718668	Marionette	INFO	Listening on port 49903
+1606151718833	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript error: https://app.snapp.taxi/login/?redirect_to=%2Fpre-ride%3Futm_source%3Dwebsite%26utm_medium%3Dwebapp-button, line 21: ChunkLoadError: Loading chunk 12 failed.
+(error: https://app.snapp.taxi/static/js/12.d77656f3.chunk.js)
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1606151768950	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1606151811231	Marionette	INFO	Stopped listening on port 49903
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606151833082	geckodriver	INFO	Listening on 127.0.0.1:50017
+1606151836120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofile3xCdre"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606151839345	Marionette	INFO	Listening on port 50025
+1606151839829	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2726: TypeError: event.target.closest is not a function
+1606151949866	Marionette	INFO	Stopped listening on port 50025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606151954938	geckodriver	INFO	Listening on 127.0.0.1:50128
+1606151957985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAMIDR~1\\AppData\\Local\\Temp\\rust_mozprofileUcqWWR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606151962121	Marionette	INFO	Listening on port 50136
+1606151962168	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://app.snapp.taxi/static/js/3.ed05a1a8.chunk.js, line 2: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 45: TypeError: composedTarget is null
+1606152334920	Marionette	INFO	Stopped listening on port 50136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
